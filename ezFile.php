@@ -1,6 +1,6 @@
 <?php
 ##############################################################################
-#								                  ezFile v1.0.0								               #
+			 ezFile v1.0.0 			                     #
 ##############################################################################
 # ezFile is a php class designed to make it easy to perform basic tasks to
 # files within your file system. From error logging to saving page parts
